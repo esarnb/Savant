@@ -1,2 +1,0 @@
-gapikey="AIzaSyAdrGEhLW0yhkq2_01pNcM9PvHzvvvjd1o";
-yapikey="AIzaSyAlfUz6G_ZRX-bupXv1wo6XpABl2D7uhmU";
