@@ -2,7 +2,7 @@ $(function(){
 handleClientLoad();
  // Client ID and API key from the Developer Console
       var CLIENT_ID = '602269593939-5eqq385l144j8mu68idmeq0m7kr50kqc.apps.googleusercontent.com';
-      var API_KEY = 'AIzaSyAdrGEhLW0yhkq2_01pNcM9PvHzvvvjd1o';
+      var API_KEY = gapikey;
 
       // Array of API discovery doc URLs for APIs used by the quickstart
       var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"];
